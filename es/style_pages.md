@@ -36,7 +36,7 @@ Los siguientes estilos no están permitidos en las páginas AMP:
   <tbody>
     <tr>
       <td data-th="Banned style">
-<code>!important</code> qualifier </td>
+<code>!important</code> qualifier</td>
       <td data-th="Description">No se permite el uso y referencia a <code>!important</code> . Este es un requisito necesario para que AMP pueda hacer cumplir sus reglas de tamaño de elementos.</td>
     </tr>
     <tr>
