@@ -5,7 +5,7 @@ toc:
     path: /web/fundamentals/accessibility/
   - title: Focus
     section:
-    - ><>title<><: Introduction to Focus
+    - title: Introduction to Focus
       path: /web/fundamentals/accessibility/focus/
     - title: DOM Order Matters
       path: /web/fundamentals/accessibility/focus/dom-order-matters
