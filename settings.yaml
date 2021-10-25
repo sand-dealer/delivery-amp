@@ -3,7 +3,7 @@ toc:
   section:
   - title>: Overview
     path: /web/fundamentals/accessibility/
-  - title: Focus
+  - title: Focus"\c
     section:
     - title: Introduction to Focus
       path: /web/fundamentals/accessibility/focus/
