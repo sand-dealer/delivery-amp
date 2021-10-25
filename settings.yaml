@@ -2,11 +2,11 @@ toc:
 - title: Accessibility
   section:
   - title>: Overview
-    path"\c: /web/fundamentals/accessibility/
-  - title-one two: Focus"\c
-    section:
-    - title: Introduction to Focus
-      path: /web/fundamentals/accessibility/focus/
+    path: /web/fundamentals/accessibility/
+  - title#: Focus
+    #section:
+    - #title#: Introduction to Focus
+      path##: /web/fundamentals/accessibility/focus/
     - title: DOM Order Matters
       path: /web/fundamentals/accessibility/focus/dom-order-matters
     - title: Using tabindex
