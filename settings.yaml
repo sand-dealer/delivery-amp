@@ -1,7 +1,7 @@
 toc:
 - title: Accessibility
   section:
-  - ><>title>: Overview
+  - title>: Overview
     path: /web/fundamentals/accessibility/
   - title: Focus
     section:
