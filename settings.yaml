@@ -4,11 +4,10 @@ toc:
   - title>: Overview
     path: /web/fundamentals/accessibility/
   - title: Focus
-    section: ###
-    ##
-    - title: Introduction to Focus
+    section:
+    - title<><><: Introduction to Focus
       path: /web/fundamentals/accessibility/focus/
-    #- title: DOM Order Matters
+    - title: DOM Order Matters
       path: /web/fundamentals/accessibility/focus/dom-order-matters
     - title: Using tabindex
       path: /web/fundamentals/accessibility/focus/using-tabindex
