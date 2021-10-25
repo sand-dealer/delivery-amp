@@ -2,8 +2,8 @@ toc:
 - title: Accessibility
   section:
   - title>: Overview
-    path: /web/fundamentals/accessibility/
-  - title: Focus"\c
+    path"\c: /web/fundamentals/accessibility/
+  - title-one two: Focus"\c
     section:
     - title: Introduction to Focus
       path: /web/fundamentals/accessibility/focus/
