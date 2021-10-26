@@ -1,5 +1,3 @@
-# Contribuir a la documentación de la API de TensorFlow
-
 ## Cadenas de documentos comprobables
 
 TensorFlow usa [DocTest](https://docs.python.org/3/library/doctest.html) para probar fragmentos de código en cadenas de documentos de Python. El fragmento debe ser código Python ejecutable. Para habilitar la prueba, anteponga la línea con `>>>` (tres corchetes en ángulo izquierdo). Por ejemplo, aquí hay un extracto de la `tf.concat` en el archivo fuente [array_ops.py:](https://www.tensorflow.org/code/tensorflow/python/ops/array_ops.py)
